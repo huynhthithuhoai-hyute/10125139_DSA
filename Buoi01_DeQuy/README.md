@@ -1,6 +1,6 @@
 # Buổi 01 – Đệ quy
 
-Họ tên: Nguyễn Trọng Tâm · MSV: 10125280
+Họ tên: Huỳnh Thị Thu Hoài · MSV: 10125139
 
 ## Bài đã làm
 
