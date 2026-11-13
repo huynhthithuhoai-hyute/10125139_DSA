@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="b1/b1.csproj" />
+  <Project Path="b2/b2.csproj" />
+  <Project Path="b3/b3.csproj" />
+  <Project Path="b4/b4.csproj" />
+  <Project Path="b5/b5.csproj" />
+  <Project Path="b6/b6.csproj" />
+  <Project Path="b7/b7.csproj" />
+  <Project Path="b8/b8.csproj" />
+</Solution>
